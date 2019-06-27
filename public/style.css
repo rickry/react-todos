@@ -1,0 +1,21 @@
+.todo-app{
+    text-align: center;
+}
+.blue-text{
+    margin: 0 auto;
+    font-size: 50px;
+}
+.collection-item{
+    border: black 2px solid;
+    width: 90%;
+    margin: 8px auto;
+    background-color: lightgray;
+    padding: 5px;
+}
+.todo-input{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px gray solid;
+}
